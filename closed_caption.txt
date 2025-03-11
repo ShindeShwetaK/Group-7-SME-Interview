@@ -1,7 +1,7 @@
 16:02:22 Just to give me one minute.
 16:02:24 Yeah.
 16:02:28 Yeah.
-16:02:31 Hi, Shaddha. I'm Shata Shinde. And first of all, we all would like to thank you for taking your time to speak with us today.
+16:02:31 Hi, Shaddha. I'm Shweta Shinde. And first of all, we all would like to thank you for taking your time to speak with us today.
 16:02:39 We all are students of San Jose State University currently pursuing masters in data analytics and we are particularly excited about machine learning.
 16:02:48 The purpose of interviewing this industry expert is to gain more understanding about how machine learning is applied in real world scenarios.
 16:02:58 We really appreciate your expertise and insights in this field and we're looking forward to learn from your experience.
@@ -33,7 +33,7 @@
 16:08:35 And then once we understand the problem from the email perspective.
 16:08:39 Try to break it down in different email pipeline and then start working on working on it. So long short story is 30%, 30, 40% spent on talking to different stakeholders collaborating cross collaboration team and then 70% is mostly focused on the coding or working on the internal pipeline.
 16:09:02 Yeah.
-16:09:04 Thank you, Shattha. That was an insightful glimpse of your journey. So you said that you collaborate with cross-functional teams. So my next question to you is a follow-up question, like how do you make this complex model more interpretable to the non-technical people like the stakeholders.
+16:09:04 Thank you, Shraddha. That was an insightful glimpse of your journey. So you said that you collaborate with cross-functional teams. So my next question to you is a follow-up question, like how do you make this complex model more interpretable to the non-technical people like the stakeholders.
 16:09:24 How do you make them understand that what exactly you are doing with this model?
 16:09:29 Yes so that is really important step when we apply any technical solutions because when we collaborate with cross teams For example, one is product manager now product managers are very So much like they are very much uh they have insights about the customer pain points.
 16:09:50 And the requirements. But when it comes to the implementation parts in the technical terminologies they are not very much aligned with few ML or AI terminologies. So how we can explain it to them Once we understand the user story or user pain points or
@@ -51,8 +51,8 @@
 16:12:17 So can we apply the same ML model? That analysis needs to be done. So if we give them this kind of examples and also provide visualizations where if we plot this with the histogram or if we have the scatter plot where they can understand more about
 16:12:37 Is there any periodicity in the time series data set or so having more visuals complete end-to-end examples and also laying down all the analysis in a proper documentation.
 16:12:54 That would help any non-technical stakeholders to understand overall story.
-16:13:02 Thank you, Shakda.
-16:13:07 Shanta, should I take that forward? Okay. Hi, Sradam Gayatri. Thanks for being here with us today.
+16:13:02 Thank you, Shraddha.
+16:13:07 Shraddha, should I take that forward? Okay. Hi, I am Gayatri. Thanks for being here with us today.
 16:13:10 Yeah.
 16:13:15 Okay, so I had a following question for you since you mentioned the plans of different ML technologies methodologies.
 16:13:22 It includes applying different models, right? So how does the rise of foundation models impact traditional ML approaches?
@@ -74,7 +74,7 @@
 16:16:33 And trustworthy so major challenges this foundational models are trained on massive data sets, but consider there could be some bias.
 16:16:44 So there are challenges with bias or ethnical approach. And another is mainly the explainability part yeah
 16:16:56 Thank you.
-16:16:57 So hi Sarata. My name is Meet and And currently I'm pursuing a master in data analytics at SJSU. Same.
+16:16:57 So hi Shraddha. My name is Meet and And currently I'm pursuing a master in data analytics at SJSU. Same.
 16:17:05 And in the past, I have two experience with his six month duration of like one is mobile application development.
 16:17:11 And second one is for data scientist. So yeah, my question is Can you share a real-world example where machine learning model failed due to overfitting or underfitting and how like how it was resolved
 16:17:28 Okay, so let's take one example. So when I was working in people so people needs to understand the abusive behavior of their customers. So abusive behavior in terms of how are their transactions or transactional or their behavioral history or are they doing a lot of refunds or do they usually always add the chargeback rules?
@@ -99,7 +99,7 @@
 16:21:25 So uh like So important thing is before train the model we should uh like find like a pitch column or which feature are important for the our like model So yeah, yeah, okay.
 16:21:40 Yeah, feature selection plays a vital role.
 16:21:42 It's important things yeah yeah
-16:21:46 Hi Shrata. My name is Anv. Thank you again for talking with us.
+16:21:46 Hi Shraddha. My name is Anvya. Thank you again for talking with us.
 16:21:50 I think this next question will be related to Mitsuan just now.
 16:21:49 Right.
 16:21:53 So when working with high dimensionality data sets where there's lots of irrelevant or redundant features.
@@ -249,7 +249,7 @@
 16:51:27 Oh. Complete.
 16:51:26 It also differs company to company where the data sources too. So yeah, mainly focusing on the language and yeah playing around with the libraries.
 16:51:38 Okay, thank you.
-16:51:44 I guess we are done. We had a good insightful session from Yashranda.
+16:51:44 I guess we are done. We had a good insightful session from Shraddha.
 16:51:48 Yeah. Thank you.
 16:51:49 Yeah. Thank you so much.
 16:51:52 So thank you. Okay. Thank you.
@@ -261,6 +261,6 @@
 16:52:37 Company tries you to differentiate from other folks like other How are you exceeding the expectations? So not only making sure you're doing the end-to-end ML job.
 16:52:48 But you are making everyone bring up on the same page and giving them more capability to understand how these solutions are being leveraging in the production environment.
 16:53:03 Thank you.
-16:53:03 Okay. Okay. Thank you, Shranda. Thank you for your time.
+16:53:03 Okay. Okay. Thank you, Shraddha. Thank you for your time.
 16:53:04 Thank you so much.
 16:53:05 Thank you.
