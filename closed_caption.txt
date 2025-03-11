@@ -1,0 +1,266 @@
+16:02:22 Just to give me one minute.
+16:02:24 Yeah.
+16:02:28 Yeah.
+16:02:31 Hi, Shaddha. I'm Shata Shinde. And first of all, we all would like to thank you for taking your time to speak with us today.
+16:02:39 We all are students of San Jose State University currently pursuing masters in data analytics and we are particularly excited about machine learning.
+16:02:48 The purpose of interviewing this industry expert is to gain more understanding about how machine learning is applied in real world scenarios.
+16:02:58 We really appreciate your expertise and insights in this field and we're looking forward to learn from your experience.
+16:03:05 To start with, we all would love to hear about your journey and about you.
+16:03:11 And also we are excited to know a typical day in a life of a machine learning engineer.
+16:03:18 Sure, yeah. Hello, everyone. Good afternoon. Thanks for inviting me. So let me start with my introduction so Currently, I'm working at Cisco Thousand Eyes as senior machine learning engineer.
+16:03:32 And my day-to-day job mainly applying the email solutions for networking solutions and internet insights so prior to this i was working for PayPal for the last five years and For the first two years, I was part of data platform engineering team where I mainly contributed to
+16:03:53 Big data platform development like data catalog where different personas like data scientists, data engineers would come to get more information metadata about the data sets within PayPal ecosystem.
+16:04:06 So there I got more insights about the PayPal landscape, how data is being stored in different data sources and ingested throughout.
+16:04:15 And then later I moved to data science organization where I worked as a machine learning engineer where I worked on end-to-end ML pipelines for risk and fraudulent pipelines so that I gain more understanding about how this data is being leveraged to apply to the
+16:04:34 Business use cases within the risk and fraud system. So overall, my last six, seven years experience mainly spans in backend development and machine learning experience so far.
+16:04:48 So to come to the point how the day-to-day activities looks like as an email engineer in enterprise ecosystem.
+16:04:58 So I would just give a high level 10,000 feet overview So in any company, like currently in Cisco or in people we mainly work you know agile methodology where we have the daily sprints like we have the different scrum ceremonies like daily stand-ups
+16:05:15 Or bi-weekly scrum meetings. So we have given a particular task or feature of where we take it up for the development purpose so consider my day-to-day activity for any email related work depends on for which stage of ML pipeline I am currently working on.
+16:05:36 So let's consider, I just started we're looking into one particular feature where I want to work on detecting the anomalies.
+16:05:45 In the network or application layer. So just in a layman terms today morning we had the Twitter outage. So Twitter X was down for some time So how can I detect it with the ML approach?
+16:06:01 So if I just started looking into it, I will start with the data exploration data analysis uh office where I will try to apply different exploratory analysis and see what data we have.
+16:06:15 How we can consume it and what are the different visualizations I can apply to gain more insights about the data like how a user from San Jose is trying to connect to X is having the experience connecting to the X or how user sitting in the euro is experiencing
+16:06:32 Connections with the Twitter. So I will lay down those all the visualizations and gain more insights about the data.
+16:06:38 So that could be first step which i will start looking into it.
+16:06:43 Or consider in my day-to-day, like I'm currently working on the later phase of the ML pipeline where I'm mainly working on the model selection or applying what ML methodology would work best for my solution.
+16:06:56 So if I take the same example for detecting the anomaly like anomalous behavior what different mls uh To start with, can I apply any simple static sticker or heuristic based approach where I can at least get some exam output and then correlate it with the example
+16:07:15 And then retreat on it with different email methodologies or can I use any existing time series best because this data is all time series which progress over the time. So can I use any existing open source time series model
+16:07:31 So all these experiments and the analysis work is done. So if you consider in day-to-day job mainly all the work on the different phases of email pipeline is performed based on where you are currently focusing on.
+16:07:47 But the main focus is on when you work on any of this pipeline stage you make sure you analyze and document all your analysis visualizations or experiments at the later phase of the email pipeline.
+16:08:01 So that and discuss it with the broader team. So in a nutshell in my day-to-day activities, mainly 30 to 40% goes in collaborating with different stakeholders to understand the requirement.
+16:08:16 Understand the business requirement. And then translate it to the email problem.
+16:08:23 Because that is the very, very crucial point in understanding and where we mostly ML engineers try to spend good amount of time like we have these business use cases how can we translate it to the email use case?
+16:08:35 And then once we understand the problem from the email perspective.
+16:08:39 Try to break it down in different email pipeline and then start working on working on it. So long short story is 30%, 30, 40% spent on talking to different stakeholders collaborating cross collaboration team and then 70% is mostly focused on the coding or working on the internal pipeline.
+16:09:02 Yeah.
+16:09:04 Thank you, Shattha. That was an insightful glimpse of your journey. So you said that you collaborate with cross-functional teams. So my next question to you is a follow-up question, like how do you make this complex model more interpretable to the non-technical people like the stakeholders.
+16:09:24 How do you make them understand that what exactly you are doing with this model?
+16:09:29 Yes so that is really important step when we apply any technical solutions because when we collaborate with cross teams For example, one is product manager now product managers are very So much like they are very much uh they have insights about the customer pain points.
+16:09:50 And the requirements. But when it comes to the implementation parts in the technical terminologies they are not very much aligned with few ML or AI terminologies. So how we can explain it to them Once we understand the user story or user pain points or
+16:10:07 In day-to-day collaboration like we also work closely with the data engineers or data who work mainly on the backend stuff where they try to bring up the data pipeline to ingest the data and then We leverage it for the email solution so consider
+16:10:25 We are doing the applying the feature engineering But we don't have the data as expected. So we have to collaborate with them and make bring them up to the same page that the quality is compromised or we are looking for this data
+16:10:40 So if we just explain it in the technical terms, sometimes it's difficult so for any product managers or this technical backend team or the research folks who are too much they have the expertise in particular their domain like currently i'm working in networking domain so they have expertise about the
+16:10:58 Network layer or application layer. They have more understanding about the statistical methods but how we can bring them up to the speed on the email front.
+16:11:08 So in general, all the email pipeline phases starting with data exploration data analysis feature engineering or model selection or model training which is a key part and where we spend most of the time where we try to enhance the model performance like
+16:11:23 Hyperparameter toning. So how we can effectively explain them is through the like taking consideration of real life examples.
+16:11:35 Or applying lot of visualizations. So in simple words what i mentioned for the Twitter use case.
+16:11:41 So if I explain them in a simple word, like I cannot apply only one ML model.
+16:11:47 To detect the anomaly for the Twitter use case to understand how is the latency because if you consider from San Jose to connecting to the Twitter which is deployed in you consider us east region.
+16:12:02 So the distance is less so the overall how the time series looks like is different and how I can apply the ML model is different.
+16:12:10 Versus folks connecting from the euro will have different experience. So we have these different sets of time series data.
+16:12:17 So can we apply the same ML model? That analysis needs to be done. So if we give them this kind of examples and also provide visualizations where if we plot this with the histogram or if we have the scatter plot where they can understand more about
+16:12:37 Is there any periodicity in the time series data set or so having more visuals complete end-to-end examples and also laying down all the analysis in a proper documentation.
+16:12:54 That would help any non-technical stakeholders to understand overall story.
+16:13:02 Thank you, Shakda.
+16:13:07 Shanta, should I take that forward? Okay. Hi, Sradam Gayatri. Thanks for being here with us today.
+16:13:10 Yeah.
+16:13:15 Okay, so I had a following question for you since you mentioned the plans of different ML technologies methodologies.
+16:13:22 It includes applying different models, right? So how does the rise of foundation models impact traditional ML approaches?
+16:13:27 Okay.
+16:13:32 Yes. So if you understand the key difference like the traditional ml approach follows this complete email pipeline starting with data exploration data analysis, feature engineering, then selection and then fine tuning the model.
+16:13:47 Versus foundational models are already trained on massive data sets. So when we now with all the foundational models coming into the picture like GPT or BERT models, they are already trained on massive data sets So now the focus has shifted
+16:14:06 Towards like how we can fine tune our existing foundational models with our specific task or with a rise of LLM models, the focus has shift how we can do more efficient prompt engineering.
+16:14:23 So when we say prompt engineering, it's mainly how we can generate different prompts or ask questions in different ways to our llm models So as compared to traditional ml to like foundational modeling.
+16:14:37 Major changes like we already have the trained or label data sets. So major focus is on generalize how we can generalize like it's the train is shipped from the space applying the image solution to specific tasks to the generalized data set.
+16:14:54 So we don't have to completely have focus on data analysis or labeling the data sets.
+16:15:01 Or work on more feature engineering because these foundational models are already trained on these data sets.
+16:15:07 So how we can mainly work on once we apply the model, how we can fine tune the model more specific to our domain.
+16:15:16 Because while building the foundational model, those are trained on very massive data sets but if you consider the networking domain itself there are very less foundational like uh scenarios where it would fit better so we have to fine tune it based on our specific task.
+16:15:34 So major shift in paradigm is after the second phase of ML pipeline where we have to focus on the model fine tuning and evaluating the model performance. And now if you consider evaluating the model performance.
+16:15:48 With ML traditional approach it's very easy to interpret the model output because if you have the result of decision tree or for random forest it's very easy to understand or explain.
+16:16:01 But if you want to evaluate and explain the output of the foundational models or the LLM models.
+16:16:09 Now it is more challenging because how this foundational models are making decision to come up to that result has become complex so now main focus is also changed on how we can add the explainability to our solutions any ml solutions or using these foundational models.
+16:16:28 So that we are making sure whatever the output is generated by these models is right.
+16:16:33 And trustworthy so major challenges this foundational models are trained on massive data sets, but consider there could be some bias.
+16:16:44 So there are challenges with bias or ethnical approach. And another is mainly the explainability part yeah
+16:16:56 Thank you.
+16:16:57 So hi Sarata. My name is Meet and And currently I'm pursuing a master in data analytics at SJSU. Same.
+16:17:05 And in the past, I have two experience with his six month duration of like one is mobile application development.
+16:17:11 And second one is for data scientist. So yeah, my question is Can you share a real-world example where machine learning model failed due to overfitting or underfitting and how like how it was resolved
+16:17:28 Okay, so let's take one example. So when I was working in people so people needs to understand the abusive behavior of their customers. So abusive behavior in terms of how are their transactions or transactional or their behavioral history or are they doing a lot of refunds or do they usually always add the chargeback rules?
+16:17:53 So in order to identify who are the obvious customers for the people.
+16:17:58 I worked on deploying and developing the endpoint ml pipeline. So to start with to detect the abusive behavior we need we can consider different signals like transaction history or the account history of that customer.
+16:18:15 Where we can take in account overall behavioral patterns, like how frequently this customer is making a change and making a refund.
+16:18:23 Or how frequently this customer is changing his payment mode like is he doing the digital way or in person or how frequently the location of that person the transaction made is changed in past few days.
+16:18:38 So these different signals can be leveraged to detect the abusive behavior.
+16:18:42 So when it comes to the overfitting when we started applying the ML solution and we had the feature engineering done where we had few features laid down related to behavioral patterns or based on transaction history or account history like how many
+16:18:58 Transactions is done by this account in last five days. From which locations and so on. So these were the few features being included.
+16:19:05 So feature engineering wisdom Now, while applying the email model initially we start with very simple model but we looking at the data analysis we thought let's go with deep neural network model So we started looking into the deep learning model where the model was too complex to learn the
+16:19:28 Behavioral of that users. There were many hyperparameters we need to tune.
+16:19:35 So what happened when we trained the model? It worked fine. But when we tried to apply it to the test data set.
+16:19:43 The model failed mainly because while this due to the nature of the complex model of the deep learning model and the hyperparameters it tried to fit to the noise in the data as well where the quality was compromised and the second was
+16:20:00 It tried to only detect abusive behavioral for certain cases so it the case overall was the overfitting case So that was the analysis done.
+16:20:12 And now how we can make it more simple or how we can reduce the overfitting the another part is we can either do the hyperparameter tuning like work on fine tuning the parameters more. But even that failed because there were so many parameters and even
+16:20:28 Because there are two criterias like either look into the data quality, making sure the features are in place and even applying the hyperparameters during the performance evaluation there was still overfitting.
+16:20:42 I had to trace back, go a step back And then start with a simple model where I use the simple random forest or Exuboost model.
+16:20:51 To detect the abusive behavior. The model was pretty simple and it was able to generalize the output to the larger data set.
+16:21:02 And also it was able to take in account the different samples within the data set like there were a few ABC users, few of them were the users with the normal behavior.
+16:21:14 So to tackle the overfitting use case i had to Switch to the simple model make more fine tuning for that model parameters and it worked well in the evaluation, please.
+16:21:25 So uh like So important thing is before train the model we should uh like find like a pitch column or which feature are important for the our like model So yeah, yeah, okay.
+16:21:40 Yeah, feature selection plays a vital role.
+16:21:42 It's important things yeah yeah
+16:21:46 Hi Shrata. My name is Anv. Thank you again for talking with us.
+16:21:50 I think this next question will be related to Mitsuan just now.
+16:21:49 Right.
+16:21:53 So when working with high dimensionality data sets where there's lots of irrelevant or redundant features.
+16:21:59 How do you decide between dimensionality reduction and feature selection? For improving the model's performance and preventing any overfitting.
+16:22:08 Yeah, that's a good question. The major difference between the dimensionality reduction and the feature selection comes like is where feature selection is finding the most relevant features.
+16:22:24 Or columns from the dataset. And dimensionality reduction is When we transform few particular columns or features into new space or new features.
+16:22:34 So how usually we decided it typically totally depends on the nature of the data.
+16:22:41 Or the nature of the problem which we are solving. So let's consider one example we had this data set with all the transaction columns where we had the transaction amount transaction time and transaction date or let me consider So we had the amount, date and location.
+16:23:02 So and the time. Now to detect whether this transaction is fraudulent or not Should I consider the dimensionality reduction or the fissure selection?
+16:23:13 Now, I also have the few features like age of the customer and like other parameters like what is the behavioral of that user with past few days. So it like when we consider the dimensionality reduction we closely look at the correlation like highly correlated features
+16:23:39 So consider there was we had the transaction time, transaction location and transaction amount.
+16:23:47 So you can like we sometimes based on plotting and doing the visualization there was some correlation between the transaction amount and transaction time so if there is the transaction amount is high the time it took to complete this transaction was high.
+16:24:05 So can I, since these are very correlated feature Can I consume like these two features independently or can I reduce this to one feature which would signify the value of these two columns. So I can maybe translate these two columns into only one feature.
+16:24:26 And keep location feature as it is like considering the time and amount I can translate to another new feature or create new custom engineered feature where it could show this relation between the time and amount. It could be the like showing this
+16:24:45 How is the expenditure by that user like i can name it anyway but it's basically finding the correlated features and then transforming it into a new feature.
+16:24:57 So that way I can apply the dimensionality reduction. But consider now I have for the same use case Can I apply feature selection as a yes So initially I have transaction related consider thousand features.
+16:25:13 From those thousands of features. Does H column make sense? Yes, because sometimes h could represent whether that for that customer is he making the fraudulent transaction or not that could be of significant feature.
+16:25:27 So I can't really down to the like I can select the H column as well So I'm giving very simplified example based on what like we did the fraudulent uh detection based on the transaction history but that's where feature selection is
+16:25:42 Just finding the most relevant and significant columns when we are applying the model and dimensionality reduction is generally finding the highly correlated features and can be transforming into a new feature?
+16:25:56 In a new space yeah Yeah, that is clear for you.
+16:26:01 That's great. Thank you.
+16:26:05 My next question to you is that what is the biggest misconception that people have about ML in the real world scenarios?
+16:26:14 Yes. So like you might be uh experiencing in your ML coursework like whenever you do any assignments you or if you go with the Kaggle data sets you will see data sets are very structured less messy and data quality is not much a crowd like concern.
+16:26:35 But when you move to that real world everything is changed like currently networking domain when I'm working on it like if i compared it with the PayPal data set as well like all the payments transactions are well structured data we have few
+16:26:49 Labor data sets available. But when it comes to the like networking data like you can like any data which progress over the time is a time series data set so for all this network or application layer data, like if I'm making a curl call to google.com, so how much time is taken by uh like how is the HTTP time or how many errors like 200 I'm getting or
+16:27:15 404 I'm getting. Main misconception is like we have data in place but when I'm working on the networking solution.
+16:27:24 I know I'm applying the ml solutions i want to apply the supervised learning algorithm But there is no proper ground truth data sets or data available where we don't have the label data available like going back to the same example where we today morning we had the Twitter X outage
+16:27:42 It went down for some time. So if I have to do any anomaly detection.
+16:27:47 I don't have any data set available with that labeled where it says there was annually during this time.
+16:27:54 So there were few outages happen in the last historical times. So now I need to work on some pipeline or some solution where I can create this label data sets so sometimes there are no direct label data sets available
+16:28:08 Or sometimes data is too much messed up or you have to work on cleaning data very properly So how efficiently you can apply all the statistical analysis and make sure you clean data properly or do all the data visualizations
+16:28:24 To make it more insightful while applying the ML solution. So that is the first part and then the next part is also you want to evaluate the model so sometimes evaluating just making like making sure that only the accuracy of model
+16:28:41 Is not the right metrics. So consider one generic example we want to detect a harmful weapon on meta.
+16:28:52 So having the high accurate ML model is important or there could be like just applying the accuracy where we have the high precision is not important in this scenario Recall is more important because if we detect any item which is not weapon as a weapon
+16:29:11 Sometimes it's okay but if there is it's a weapon and if our model doesn't detect it as a weapon where we are saying high priest like precision that will not work so precision work always having the high accuracy is not the right metric to evaluate our model so we need to look into the precision recall and plot the RUC call so
+16:29:32 While you are studying all these metrics while evaluating just like don't like consider it's mathematical formula or but try to understand now you have so many platforms to understand ask the questions to llm models like why we are doing the precision or why we are doing the recall
+16:29:50 How it works like how we actually it's deriving the output In what scenarios high precision or high recall will make more sense so that is another aspect and another thing is is having like data is always in place no
+16:30:08 That we covered. I think more. And yeah, another could be the scenario where Let me… I had one point in my mind.
+16:30:22 So mainly we are talking about this scenario where data quality we covered evaluation part we covered.
+16:30:32 Another is always applying the email solution is not the solution.
+16:30:39 Like when we are considering anomaly detection there would be like a person connecting to X from San Jose to X is deployed in San Jose.
+16:30:49 So always their trend is normal like the latency to connect or total round trip time to connect to X or the would be always stationary or only spike in a few times so the variance is very low so this we have to properly categorize all these different entities and apply the email model efficiently so there is no criteria like
+16:31:12 Should I apply the email module to detail animal detection for person connecting from San Joseph to sanitizen?
+16:31:18 I can simply apply the ml like heuristics based approaches statistical where i can just compute the z-score or do any statistical approach so always applying the ml solution is also not the approach while applying the that is also a misconception and now as more broader foundational models or LLMs are coming into the picture
+16:31:41 Ml is subcategory of AI.
+16:31:45 Ai is more broader term where AML comes into the picture so Always people get confused when it comes to applying the solutions so that is also one misconception. So overall, it's related to the uh like if you consider all the phases within the data pipeline, starting with the data quality or data
+16:32:09 Definement is at high priority and then evaluating the models
+16:32:16 Thank you. So what I understood is that we will always not get structured data. We will have to deal with unstructured data and also there won't be labels readily available. We have to do some analysis for that and also always the accuracy of the model is not important the precision is also important.
+16:32:37 So that at least it will do the correct predictions. Thank you so much.
+16:32:42 Right, yeah.
+16:32:47 So my next question for you is What are some real world examples where feature engineering had a greater impact?
+16:32:55 Hmm. Okay. Yeah.
+16:32:54 On model performance than hyperparameter tuning.
+16:33:00 Again it ties to the same concept where we say data quality really makes more important role while applying the image solution.
+16:33:10 So maybe now all the examples I'm giving is either related to risk of turbulent but or the anomaly where I'm currently working on more network domain related solutions so if i take the same example for the anomaly detection. It's a time series data.
+16:33:27 So when the time series data comes into when i'm saying I'm trying to detect and know like what is the animal's behavior compared to the normal behavior while connecting to any network or application.
+16:33:39 So I selected one open source profit algorithm like model given by meta and applied it. So there are different times series like detecting the consider stock price range or detecting the weather These are a few examples.
+16:33:54 This profit model has different parameters. Which we tune to improve the performance of the model.
+16:34:03 So one of the parameter is seasonality like for this time series do we have the seasons taken in account like consider if you're doing any stock change the stock price would matter does matter like have the impact of the season
+16:34:24 Or when we are seeing the weather rain will be more during the rainy season.
+16:34:31 Are based on the purchase is still considered Walmart. It could vary based on the daily pattern or weekly pattern So seasonality is important but we it comes to the network layers or detecting the latency Sometimes it's taken into account like consider on weekends people
+16:34:53 Are most active on the social media so the latency or time to connect might there would be more anomalous behavioral on the weekends So how much seasonality is taken into like should we consider the daily or weekly seasonality or another hyperparameter was
+16:35:12 Considering how many times the particular signal has changed in last few hours or so.
+16:35:19 So there were so many hyperparameters when I was trying to optimize my model.
+16:35:26 It tried to detect the like predict the anomaly but uh even with so many complex parameters While doing the hyperparameter tuning one of the uh things which place is understanding more about the domain and the understanding more about that model and its parameters
+16:35:45 So then… the same thing happened like it was able to detect the anomalies for few certain of uh entities and it was filling for few entities so i had to again go back and see What are the features we are considering?
+16:36:00 Again go back and see. Like there were a few different features like in the network layer what is the round trip time are there any packet loss happening during the network call or what is the like when we try to connect to particular network like consider x
+16:36:20 What hops it's going through like is the path changed during that period or if we consider the application layer how much time it took to connect to that particular x network how many failures were there or did I experience time redirect?
+16:36:37 So these were key metrics were there. But which will make more prominent features.
+16:36:45 To make my model perform well so there were a few features we're missing because if I just consider the latency like how much time it's taking you to connect to the network it doesn't make sense. So I had to add this all the path visualizations or path analysis into the my data set so that it will make more
+16:37:05 Write a detection for the anomaly. So that's where looking into very raw data and understanding then plotting all the data visualization, understanding the pattern of the data and then extracting few meaningful features.
+16:37:21 Played really important role while dating the anomaly, not just by playing with the complex hyperparameters.
+16:37:29 I hope that as well.
+16:37:30 Thank you. Our professor mentioned in one of the lecture that feature engineering and hyperparameter tuning is is why that we have jobs today.
+16:37:40 Yes, that's right.
+16:37:41 So listening to your answer, I just believed in it.
+16:37:45 Yeah, and it spans over the period and it's a it like if you consider email pipeline it always a sequential process like once we do the feature engineering we go to the like model selection we did the model we applied the model we generated the output and now we try to enhance it
+16:38:03 Okay.
+16:38:08 Yeah. Thank you.
+16:38:02 But if we see that it's not performing well we go back to again previous step and do all this so yeah
+16:38:13 Yeah, so my next question is like what is the biggest challenging for optimizing hyper meta hyperparameters for complex model And how do you overcome them?
+16:38:26 So as I mentioned. Sometimes like models has so many parameters understanding each parameter is very difficult and you also need some domain expertise.
+16:38:37 So what is the simple way to tackle this is doing the uh while doing the hyperparameter tuning there are different methodologies you can adopt. So consider there are few parameters it has few values.
+16:38:51 Like consider seasonality hard values daily weekly monthly yearly So I will generate one model result with setting seasonality as daily.
+16:39:02 I will generate value with weekly or yearly and see how is the model producing the output. So how I can do that for each parameter i can have the grid search like it depends on the hyperparameter space So for this seasonality i had this this many values for another uh how many
+16:39:23 Changes I want to detect in that time series that is one parameter. So it could be 5, 10, 15, 20. So I will perform the brief search So for all these unique permutations and combinations.
+16:39:36 It will run the model and generate the output. So generally by working on this complex hyperparameters, we apply the grid search where it produces the output for this combination of parameters and we log that all these metrics in one of the platforms. So I used Comet ML.
+16:39:54 So generally consider it also shows the visualization so for this particular set of hyperparameters, my model is perfect and Now we have the output, but we also measure the matrix like what is the accuracy or precision or recall So for this my anomaly detection with this set of parameter
+16:40:14 I had 10 anomalies detected and out of which eight were red.
+16:40:18 So I am detecting the accuracy of precision with this set of parameter this is the precision.
+16:40:25 And this is the position so for all the shape of parameters i log those metrics in some platform I have some visualizations.
+16:40:33 So that it's easy to interpret and everyone in the team can just go on the dashboard and understand.
+16:40:38 So usually we perform this great research, we log those results we apply some metrics evaluation metrics and then rank those metrics based on some criteria based on our use case like for anomaly, do I need the high precision Yes. So maybe I will sort those based on the high precision and see what parameter combinations made more sense so
+16:40:59 That is one way to tackle the hyper like working on the complex hyperparameters and then logging the results in the for the visualization.
+16:41:11 Thank you.
+16:41:14 And what advice would you give to students who want to transition from an academic machine learning environment to solving real world industry problems.
+16:41:23 Yes. So I would say each phase of machine learning pipeline when you are doing the academic study And we are learning all these email key concepts.
+16:41:34 Plays really important role so try to absorb as much as you learn more about all this statistical formulas like not in terms of understanding but how it translates while you apply the model like understanding in very layman words like
+16:41:52 We are computing the precision so take any sample example where you generate some predictions.
+16:41:59 And these many predictions were right so you generate the precision value how it is making more sense so do you need to iterate again to generate more high precision value for this model.
+16:42:10 So understanding about how you're evaluating the model And then another mainly is another try to learn as much as you can to gain more insights from the data. So all the data analysis, data exploration, get hands-on on how you play with these different data frames and like play with the data, understand more insights from this data
+16:42:31 So focus on that part as well. And so that is one part.
+16:42:37 While working on this email end-to-end pipeline in production readiness code it's not always like not always that machine learning engineers mainly focus on model training or model optimizing or fine tuning.
+16:42:52 It's also the later part where we have to constantly monitor the model in production and if there is any change in the model performance, if there is any drift in the model performance, we have to again go back and retrain our model.
+16:43:05 So to have this clear vision make sure you also have this uh like software skills in place where you can go back like apply this all simple back end skills or i would say data pipeline skills where you have those skills in place. So in general
+16:43:28 Understanding more about the data and applying email solutions on top of it like that understanding this traditional ml concepts will play a vital role.
+16:43:39 Yeah and try to leverage few Kaggle data sets like just there are few competitions but just stick to one simple consular titanic data set.
+16:43:48 Go with as you are progressing over your course during different topics.
+16:43:54 Just try to focus on feature engineering initially like understand what are the columns how I can work on cleaning like if there are null values how can I impute few mean or does the mean value makes more sense for that particular particular
+16:44:11 Person age or not. And then work on future engineering and then start applying different ML models.
+16:44:18 Because as you move to the enterprise mode there are few challenges I mentioned like there is no label data so if you want to generate some label data or synthetic data So consider I had the time series data.
+16:44:35 But there is no label whether it's animal or not. So how I can generate this synthetic data with this behavioral so for that there are a few or like data pipeline or that understanding comes into the picture so mandate to make it make you ready for the enterprise or production uh working ml
+16:44:54 Pipeline mainly my takeaway two cents are like really understand the data.
+16:45:00 Try to get more insights through visualization. And based on your learnings from this ml algorithms or any open source ML models.
+16:45:10 Try to see how they are trying to bring produce the output and they are evaluating their output So yeah, that broader aspect would give you more insights.
+16:45:21 And as and when you progress, once you finish and when you start looking into any new problem what always benefited me is I always try to see, okay, what is the parallel solution in enterprise or in or already in the outside
+16:45:35 Is there any open source competition and how many different companies are trying to tackle this sort of scenarios like now netflix is also working on so many ML solutions related to time series so they are also trying to like consider the i was saying eggs anomaly like outage so they also have similar problems where they are trying to
+16:45:55 Like cluster all these similar behavioral customers using the clustering algorithm can i adapt it to my domain So reading more about this your problem specific blocks will also help you focus on that particular domain because there is so vast learning platforms and solutions but
+16:46:16 Understanding how companies are already tackling those solutions, reading through those blogs or going through any videos which are available from different conferences.
+16:46:27 Would help gain more insights.
+16:46:31 Yeah, thank you. We really appreciate you taking the time to share your experiences with us.
+16:46:36 All your descriptive explanations on these relevant ML concepts and how they're applied in the industry is very valuable for students like us. So thank you again, for this very valuable conversation.
+16:46:47 Thank you. I hope this is really helpful and yeah feel free to reach out if you have any questions Yes.
+16:46:53 Yeah, so I have like one question uh for the feature selection, which is the best method for selecting best feature in our data set for the training model.
+16:47:04 Yes.
+16:47:03 Because it's a time-taking thing. If we take a different or unnecessary features it may be problematic after the
+16:47:12 So there are already different email techniques. Which helps with the feature selection like uh like uh so uh and now if once you go to the enterprise Now, there are not only the data platform team, but there are email platforms already built
+16:47:31 So if you again consider that shift few email platforms already provide you some libraries where it will help to select a few features related to your domain.
+16:47:42 So under it, everything will be taken care But when you are learning it through the email course, you will learn different techniques and understand what technique to pick.
+16:47:51 So generally, that's where again going back to the question which were asked, how do you see the evaluation of this foundational learning models coming into the picture so as everything is going up, email platforms are also becoming enriched. So when I'm talking about ml platform you can consider one example as aws
+16:48:11 Sagemaker. So if you read more about it, AWS SageMaker provides end-to-end capabilities for email engineers to build and develop their solutions.
+16:48:23 So similarly, most of the companies like PayPal had their own internal email platform now the challenge was like in PayPal, we already had all the ecosystem or email platforms already developed But when I'm coming to the Cisco thousand eyes they are started looking into AI ML solutions now so there is no in-place ml
+16:48:42 Like platform already built up. So then I have to go back read more about this ML terminologies and see what methodology or technique will make more sense for my email selection. So I think it's just experimenting with these different techniques.
+16:48:58 I don't have very few techniques on top of my mind but yeah generally that's the approach we follow.
+16:49:05 Thank you. Thank you for the answer.
+16:49:11 Just one thing. Do you mind sharing the day-to-day technologies or skills which you vaguely use and we should have a good hands on?
+16:49:20 Sure. So I would say if you consider email pipeline mostly now most of the libraries everything is in Python Most of our solutions are in Python.
+16:49:32 I think.
+16:49:35 And PySpark is heavily used because it provides really good libraries on top of Python.
+16:49:40 To work with the Spark data frames. So it just however you all the time you learn about it but having knowledge about the spark how spar conflicts are done or how the spark jobs are run and if you have to troubleshoot any issue in the production if it fail for data skewness, so how to tackle it.
+16:49:58 So mainly Python spark And then when we set up the pipeline or DAGs for the email pipeline, we usually set up it through the airflow which is open sourced or also framework heavy monitored our pipeline that's from the monitoring or data pipeline perspective and
+16:50:20 For email related i mentioned uh usually we do a lot of like everything is done in the development mode in the jupyter notebook Or you can use any editor like PyChan and so on.
+16:50:30 Okay.
+16:50:33 And now most of the companies do offer this github co-pilot. So that really helped boost my career or like overall performance as well like if you are while doing the analysis, I had to plot so many visualizations. So I will just
+16:50:48 This is kind of data set I'm looking into and Can you please help me provide like this time to visualize it so mainly data visualizations where we use math lot lib or any other libraries So in nutshell like mainly Python spark
+16:51:08 Or ML tools related to like for monitoring internally what we use or uh in cisco thousand s we mainly use aws uh s3 buckets and so on to as a feature store But when I was in people they use heavily they are heavily on GCP so
+16:51:27 Oh. Complete.
+16:51:26 It also differs company to company where the data sources too. So yeah, mainly focusing on the language and yeah playing around with the libraries.
+16:51:38 Okay, thank you.
+16:51:44 I guess we are done. We had a good insightful session from Yashranda.
+16:51:48 Yeah. Thank you.
+16:51:49 Yeah. Thank you so much.
+16:51:52 So thank you. Okay. Thank you.
+16:51:52 Thank you. Thank you.
+16:51:53 Thank you.
+16:51:54 And just one point I just reminded me like when we talked about on talking to the stakeholders or non-technical they mainly look into metrics and dashboards.
+16:52:06 So being email engineer also how you can translate your analysis and put all those metrics into dashboard that is also important like how many animals happened in last five days or 10 days. We have everything computed from the data space.
+16:52:23 But how we can quickly enable it through the dashboard like if we have data in open search or anything how we can populate it on the open search dashboards or looker and so on so that is also key aspects like and that's where
+16:52:37 Company tries you to differentiate from other folks like other How are you exceeding the expectations? So not only making sure you're doing the end-to-end ML job.
+16:52:48 But you are making everyone bring up on the same page and giving them more capability to understand how these solutions are being leveraging in the production environment.
+16:53:03 Thank you.
+16:53:03 Okay. Okay. Thank you, Shranda. Thank you for your time.
+16:53:04 Thank you so much.
+16:53:05 Thank you.
